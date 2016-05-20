@@ -38,4 +38,4 @@ To build the `hello` native app:
 
 You can further edit your source file from the host machine and rebuild the
 native app from your docker container. The build artefacts are found in your
-host machins `hello_reason` directory.
+host machine's `hello_reason` directory.
